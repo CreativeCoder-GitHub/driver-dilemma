@@ -1,3 +1,3 @@
-# Driver Dillema
+# Driver Dilemma
 
-Driver Dillema is an open-source driving game built in Python using Ursina, with Blockbench for modeling and texturing.
+Driver Dilemma is an open-source driving game built in Python using Ursina, with Blockbench for modeling and texturing.
