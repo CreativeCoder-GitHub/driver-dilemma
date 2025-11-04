@@ -1,6 +1,6 @@
 # Driver Dilemma
 
-Driver Dilemma is an open-source driving game built in Python using Ursina, with Blockbench for modeling and texturing.
+Driver Dilemma is an open-source driving game built in Python using Ursina, with Blockbench for modeling and texturing. It is licensed under the MIT license.
 
 ## Controls
 - WASD/Arrow Keys - Player Movement
