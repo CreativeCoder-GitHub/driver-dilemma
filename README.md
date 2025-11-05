@@ -5,6 +5,7 @@ Driver Dilemma is an open-source driving game built in Python using Ursina, with
 ## Controls
 - WASD/Arrow Keys - Player Movement
 - R - Reset
+- Escape - Open Pause Menu
 
 ## Obstacles
 <p float="left">
